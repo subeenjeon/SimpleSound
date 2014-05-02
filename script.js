@@ -1,5 +1,5 @@
 $(document).ready(function() {
-	$("#playSound").click(function() {
+	$("#bird").click(function() {
 		$(this).toggleClass("state1");
 		$(this).toggleClass("state2");
 
