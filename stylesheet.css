@@ -1,0 +1,12 @@
+#playSound {
+	width: 275px;
+	height: 275px;
+}
+
+.state1 {
+	background-image: url("images/sound.jpg");
+}
+
+.state2 {
+	background-image: url("images/sound-hover.jpg");
+}
