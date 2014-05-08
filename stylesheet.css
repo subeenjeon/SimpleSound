@@ -9,7 +9,7 @@ html, body {
 	height: 100%;
 
 	background-image: url("https://scontent-a.xx.fbcdn.net/hphotos-frc3/t1.0-9/1911646_561686850616256_3874117144183094289_n.jpg");
-	background-size: cover;
+	background-size: 100%;
 }
 #BT01 {
 	position: absolute;
