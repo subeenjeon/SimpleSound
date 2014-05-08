@@ -13,15 +13,15 @@ html, body {
 }
 #BT01 {
 	position: absolute;
-	width: 100%;
-	height: 100%;
+	width: 223pxpx;
+	height: 37px;
 
-	top: 100%;
-	left:100%;
+	top: 50%;
+	left:50%;
 
 	top: calc(50% - 137px);
 	left: calc(50% - 137px);
-}
+
 }
 
 .state1 {
