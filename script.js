@@ -1,9 +1,9 @@
 $(document).ready(function() {
-	$("#bird").click(function() {
+	$("#BT01").click(function() {
 		$(this).toggleClass("state1");
 		$(this).toggleClass("state2");
 
-		$("#birdSound")[0].load();
-		$("#birdSound")[0].play();
+		$("#click")[0].load();
+		$("#click")[0].play();
 	});
 });
